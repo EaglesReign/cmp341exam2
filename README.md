@@ -2,5 +2,5 @@
 Phil Hofer's repo for exam2
 
 <pre>
-Had trouble dumping the file. Will try again when I have more time.
+I have it uploaded now.
 </pre>
